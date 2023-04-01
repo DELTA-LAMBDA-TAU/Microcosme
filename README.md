@@ -8,11 +8,11 @@ The Microcosm Simulation Project is a unique and powerful tool that provides a r
 
 ## Features
 
-    Evolutionary simulation of species and their environment
-    Realistic predator/prey dynamics
-    Dynamic and evolving biomes
-    Autonomous development and evolution
-    C++ based project with CMake for easy compilation
+ - Evolutionary simulation of species and their environment
+ - Realistic predator/prey dynamics
+ - Dynamic and evolving biomes
+ - Autonomous development and evolution
+ - C++ based project with CMake for easy compilation
 
 ## Getting Started
 
